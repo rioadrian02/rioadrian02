@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 <code><img height="35" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"></code>
 <code><img height="35" src="https://avatars.githubusercontent.com/u/3774533?s=280&v=4" title="Hapi Js"></code>
 <code><img height="35" src="https://cdn.worldvectorlogo.com/logos/laragon.svg" title="Laragon"></code>
-<code><img height="35" src="https://iconape.com/wp-content/png_logo_vector/javascript-logo.png" title="Javascript"></code>
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/3840px-PHP-logo.svg.png" title="PHP"></code>
 
 
