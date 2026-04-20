@@ -1,16 +1,22 @@
 ## Hi, I'm Rio Adrian 👋 
 
-🎓 D4 Informatics Management Student at POLSRI
-💼 Currently an Intern Web Developer at RSUD Sekayu (Laravel)
+🎓 D4 Informatics Management Student at POLSRI  
+💼 Currently an Intern Web Developer at RSUD Sekayu (Laravel)  
 🚀 Currently learning and focusing on Backend Development using JavaScript Stack (Node.js, Express.js, Nest.js)
 
-⚙️ Tech Stack
--JavaScript (Node.js, Express)
--PHP (Laravel)
--PostgreSQL, MySQL
+---
 
-🎯 Goal
+### ⚙️ Tech Stack
+- JavaScript (Node.js, Express)  
+- PHP (Laravel)  
+- PostgreSQL, MySQL  
+
+---
+
+### 🎯 Goal
 To become a Backend Developer who builds scalable and secure APIs.
+
+---
 
 <code><img height="35" src="https://www.svgrepo.com/show/303379/laravel-logo.svg" title="Laravel"></code>
 <code><img height="35" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-thumbnail.png" title="ExpressJS"></code>
@@ -20,5 +26,3 @@ To become a Backend Developer who builds scalable and secure APIs.
 <code><img height="35" src="https://cdn.worldvectorlogo.com/logos/laragon.svg" title="Laragon"></code>
 <code><img height="35" src="https://iconape.com/wp-content/png_logo_vector/javascript-logo.png" title="Javascript"></code>
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/3840px-PHP-logo.svg.png" title="PHP"></code>
-
-
