@@ -18,7 +18,7 @@ To become a Backend Developer who builds scalable and secure APIs.
 
 ---
 
-<code><img height="35" src="https://www.svgrepo.com/show/303379/laravel-logo.svg" title="Laravel"></code>
+<code><img height="35" src="https://avatars.githubusercontent.com/u/958072?v=4" title="Laravel"></code>
 <code><img height="35" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-thumbnail.png" title="ExpressJS"></code>
 <code><img height="35" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" title="MySQL"></code>
 <code><img height="35" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"></code>
