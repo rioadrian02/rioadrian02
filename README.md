@@ -1,18 +1,16 @@
-## Hi there 👋
+## Hi, I'm Rio Adrian 👋 
 
+🎓 D4 Informatics Management Student at POLSRI
+💼 Currently an Intern Web Developer at RSUD Sekayu (Laravel)
+🚀 Currently learning and focusing on Backend Development using JavaScript Stack (Node.js, Express.js, Nest.js)
 
-**rioadrian02/rioadrian02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚙️ Tech Stack
+-JavaScript (Node.js, Express)
+-PHP (Laravel)
+-PostgreSQL, MySQL
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Laravel, and JQuery
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🎯 Goal
+To become a Backend Developer who builds scalable and secure APIs.
 
 <code><img height="35" src="https://www.svgrepo.com/show/303379/laravel-logo.svg" title="Laravel"></code>
 <code><img height="35" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-thumbnail.png" title="ExpressJS"></code>
