@@ -2,14 +2,7 @@
 
 🎓 D4 Informatics Management Student at POLSRI  
 💼 Currently an Intern Web Developer at RSUD Sekayu (Laravel)  
-🚀 Currently learning and focusing on Backend Development using JavaScript Stack (Node.js, Express.js, Nest.js)
-
----
-
-### ⚙️ Tech Stack
-- JavaScript (Node.js, Express)  
-- PHP (Laravel)  
-- PostgreSQL, MySQL  
+🚀 Currently learning and focusing on Fullstack Development using Laravel
 
 ---
 
