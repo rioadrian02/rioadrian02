@@ -2,12 +2,12 @@
 
 🎓 D4 Informatics Management Student at POLSRI  
 💼 Currently an Intern Web Developer at RSUD Sekayu (Laravel)  
-🚀 Currently learning and focusing on Fullstack Development using Laravel
+🚀 Currently learning and focusing on API Development using Laravel
 
 ---
 
 ### 🎯 Goal
-To become a Backend Developer who builds scalable and secure APIs.
+To become a Backend Engineer who builds scalable and secure APIs.
 
 ---
 
