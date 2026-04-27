@@ -2,7 +2,7 @@
 
 🎓 D4 Informatics Management Student at POLSRI  
 💼 Currently an Intern Web Developer at RSUD Sekayu (Laravel)  
-🚀 Currently learning and focusing on API Development using Laravel
+🚀 Currently learning and focusing on API Development
 
 ---
 
