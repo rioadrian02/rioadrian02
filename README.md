@@ -6,10 +6,22 @@
 
 ---
 
+### 👨‍💻 About Me
+I enjoy building backend systems, designing REST APIs, and solving real-world problems through clean and maintainable code.  
+Currently improving my skills in Laravel, Node.js, and database design.
+
+---
+
 ### 🎯 Goal
 To become a Backend Engineer who builds scalable and secure APIs.
 
 ---
+
+### 📈 GitHub Stats
+
+![Rio's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
 
 <code><img height="35" src="https://avatars.githubusercontent.com/u/958072?v=4" title="Laravel"></code>
 <code><img height="35" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-thumbnail.png" title="ExpressJS"></code>
