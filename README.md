@@ -6,12 +6,6 @@
 
 ---
 
-### 👨‍💻 About Me
-I enjoy building backend systems, designing REST APIs, and solving real-world problems through clean and maintainable code.  
-Currently improving my skills in Laravel, Node.js, and database design.
-
----
-
 ### 🎯 Goal
 To become a Backend Engineer who builds scalable and secure APIs.
 
