@@ -7,17 +7,18 @@
 ---
 
 ### 🎯 Goal
-To become a Backend Engineer who builds scalable and secure APIs.
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=To+become+a+Backend+Engineer+who+builds+scalable+and+secure+APIs.&center=true&width=700&color=58A6FF&size=22)
 
 ---
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Laravel+Developer;Node.js+Learner)
 
 ### 📈 GitHub Stats
 
 ![Rio's GitHub stats](https://github-readme-stats.vercel.app/api?username=rioadrian02&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rioadrian02&layout=compact&theme=tokyonight)
+
+### 🛠️ Tech Stack
 
 <code><img height="35" src="https://avatars.githubusercontent.com/u/958072?v=4" title="Laravel"></code>
 <code><img height="35" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-thumbnail.png" title="ExpressJS"></code>
