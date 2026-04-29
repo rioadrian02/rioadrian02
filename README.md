@@ -13,7 +13,7 @@
 
 ### 📈 GitHub Stats
 
-![Rio's GitHub stats](https://github-readme-stats.vercel.app/api?username=rioadrian02&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![Rio's GitHub stats](https://github-readme-stats.vercel.app/api?username=rioadrian02&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rioadrian02&layout=compact&theme=tokyonight)
 
