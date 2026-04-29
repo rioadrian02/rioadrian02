@@ -7,7 +7,6 @@
 ---
 
 ### 🎯 Goal
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=To+become+a+Backend+Engineer+who+builds+scalable+and+secure+APIs.&center=true&width=650&color=FFFFFF&size=16)
 
 ---
