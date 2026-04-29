@@ -8,6 +8,7 @@
 
 ### 🎯 Goal
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;Scalable+API+Developer;Secure+System+Builder)
+
 ---
 
 ### 📈 GitHub Stats
