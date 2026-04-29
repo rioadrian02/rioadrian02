@@ -11,6 +11,8 @@ To become a Backend Engineer who builds scalable and secure APIs.
 
 ---
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Laravel+Developer;Node.js+Learner)
+
 ### 📈 GitHub Stats
 
 ![Rio's GitHub stats](https://github-readme-stats.vercel.app/api?username=rioadrian02&show_icons=true&theme=tokyonight)
