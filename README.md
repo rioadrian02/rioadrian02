@@ -1,6 +1,6 @@
 ## Hi, I'm Rio Adrian 👋 
 
-🎓 D4 Informatics Management Student at POLSRI  
+🎓 D4 Informatics Management Student at Sriwijaya State Polythecnic
 💼 Currently an Intern Web Developer at RSUD Sekayu (Laravel)  
 🚀 Currently learning and focusing on API Development
 
