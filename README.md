@@ -11,10 +11,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rioadrian02&layout=compact&theme=tokyonight)
-
 ### 🛠️ Tech Stack
 
 <code><img height="35" src="https://avatars.githubusercontent.com/u/958072?v=4" title="Laravel"></code>
