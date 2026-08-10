@@ -20,6 +20,7 @@
 <code><img height="35" src="https://avatars.githubusercontent.com/u/3774533?s=280&v=4" title="Hapi Js"></code>
 <code><img height="35" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" title="MySQL"></code>
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" title="PostgreSQL"></code>
+<code><img height="35" src="https://static.cdnlogo.com/logos/p/59/prisma.svg" title="Prisma"></code>
 <code><img height="35" src="https://cdn.worldvectorlogo.com/logos/laragon.svg" title="Laragon"></code>
 <code><img height="35" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"></code>
 
